@@ -27,7 +27,7 @@ SECRET_KEY = 'h-=cy(!rhh8x%c=p+5&elv4ou@re895+rilzk=hhtw6s$i7-tb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["strivingrabbit.pythonanywhere.com"]
 
 
 # Application definition
